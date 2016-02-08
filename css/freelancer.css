@@ -22,7 +22,98 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #92c6bd	;
+    color: #316668
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				;
 }
 
 h1,
@@ -58,21 +149,271 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #92c6bd	;
+    color: #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+    background-color: #316668
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				;
 }
 
 hr.star-primary {
-    border-color: #541919;
+    border-color: #462032
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		;
 }
 
 hr.star-primary:after {
-    color: #541919;
-    background-color: #fff;
+    color: #462032
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		;
+    background-color: #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
 }
 
 .img-centered {
@@ -81,8 +422,114 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #92c6bd	;
+    color: #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+    background: #316668
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				;
 }
 
 header .container {
@@ -180,8 +627,114 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #92c6bd	;
+    color: #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+    background: #316668
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				;
 }
 
 section.success a,
@@ -190,7 +743,64 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #541919;
+    color: #462032
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		;
 }
 
 @media(max-width:767px) {
@@ -238,7 +848,22 @@ section.success a.active {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
-    color: #fff;
+    color: #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
@@ -262,9 +887,39 @@ section.success a.active {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
     font-size: 20px;
-    color: #fff;
+    color: #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -273,9 +928,130 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
-    color: #92c6bd	;
-    background: #fff;
+    border: solid 2px #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+    color: #316668
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				;
+    background: #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
 }
 
 .floating-label-form-group {
@@ -327,7 +1103,98 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #92c6bd	;
+    color: #316668
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -335,7 +1202,22 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: #fff;
+    color: #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
 }
 
 footer h3 {
@@ -344,7 +1226,64 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #541919;
+    background-color: #462032
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		;
 }
 
 footer .footer-col {
@@ -360,7 +1299,22 @@ footer .footer-below {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #fff;
+    border: 2px solid #f1ddb7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
@@ -437,7 +1391,64 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #541919;
+    background-color: #462032
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -447,7 +1458,64 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #541919;
+    background-color: #462032
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
