@@ -1,0 +1,27 @@
+{
+  "name": "truthy-ruthy",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD # [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truthy-ruthy/truthy-ruthy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truthy-ruthy/truthy-ruthy/issues"
+  },
+  "homepage": "https://github.com/truthy-ruthy/truthy-ruthy#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "jquery": "^2.2.0",
+    "parser": "^0.1.4"
+  }
+}
