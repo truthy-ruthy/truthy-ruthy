@@ -149,7 +149,7 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #f1ddb7
+    border-color: #f3e3c5
 
 
 
@@ -168,7 +168,7 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    color: #f1ddb7
+    color: #f3e3c5
 
 
 
@@ -410,7 +410,7 @@ hr.star-primary:after {
 
 
 		;
-    background-color: #f1ddb7
+    background-color: #f3e3c5
 
 
 
@@ -434,7 +434,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #f1ddb7
+    color: #f3e3c5
 
 
 
@@ -639,7 +639,7 @@ section h2 {
 }
 
 section.success {
-    color: #f1ddb7
+    color: #f3e3c5
 
 
 
@@ -866,7 +866,7 @@ section.success a.active {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
-    color: #f1ddb7
+    color: #f3e3c5
 
 
 
@@ -905,7 +905,7 @@ section.success a.active {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #f1ddb7
+    border: solid 2px #f3e3c5
 
 
 
@@ -922,7 +922,7 @@ section.success a.active {
 
 ;
     font-size: 20px;
-    color: #f1ddb7
+    color: #f3e3c5
 
 
 
@@ -946,7 +946,7 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #f1ddb7
+    border: solid 2px #f3e3c5
 
 
 
@@ -1054,7 +1054,7 @@ section.success a.active {
 
 
 				;
-    background: #f1ddb7
+    background: #f3e3c5
 
 
 
@@ -1259,7 +1259,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: #f1ddb7
+    color: #f3e3c5
 
 
 
@@ -1372,7 +1372,7 @@ footer .footer-below {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #f1ddb7
+    border: 2px solid #f3e3c5
 
 
 

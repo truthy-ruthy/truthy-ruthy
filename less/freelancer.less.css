@@ -12,7 +12,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #92c6bd;
+  color: #316668;
   outline: none;
 }
 h1,
@@ -58,7 +58,7 @@ hr.star-light {
 ;
 }
 hr.star-light:after {
-  background-color: #92c6bd;
+  background-color: #316668;
   color: #7b3858
 
 
@@ -93,7 +93,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #92c6bd;
+  background: #316668;
   color: #7b3858
 
 
@@ -183,7 +183,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #92c6bd;
+  background: #316668;
   color: #7b3858
 
 
@@ -223,7 +223,7 @@ section.success a.active {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
-  background: rgba(146, 198, 189, 0.9);
+  background: rgba(49, 102, 104, 0.9);
   position: absolute;
   width: 100%;
   height: 100%;
@@ -292,7 +292,7 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #92c6bd;
+  color: #316668;
   background: white;
   border: solid 2px white;
 }
@@ -300,7 +300,7 @@ section.success a.active {
   position: relative;
   margin-bottom: 0;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid #7d8c87;
+  border-bottom: 1px solid ;
 }
 .floating-label-form-group input,
 .floating-label-form-group textarea {
@@ -333,17 +333,17 @@ section.success a.active {
 }
 .floating-label-form-group::not(:first-child) {
   padding-left: 14px;
-  border-left: 1px solid #7d8c87;
+  border-left: 1px solid ;
 }
 .floating-label-form-group-with-value label {
   top: 0;
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #92c6bd;
+  color: #316668;
 }
 form .row:first-child .floating-label-form-group {
-  border-top: 1px solid #7d8c87;
+  border-top: 1px solid ;
 }
 footer {
   color: #7b3858

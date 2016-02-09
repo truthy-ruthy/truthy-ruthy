@@ -1480,67 +1480,11 @@ a.text-danger:focus {
 }
 .bg-primary {
   color: #fff;
-  background-color: #462032
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-;
+  background-color: #462032;
 }
 a.bg-primary:hover,
 a.bg-primary:focus {
-  background-color: #7b3858
-
-
-
-
-
-
-
-
-
-;
+  background-color: #7b3858;
 }
 .bg-success {
   background-color: #92c6bd	;
