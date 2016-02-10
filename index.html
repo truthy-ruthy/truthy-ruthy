@@ -240,6 +240,7 @@
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Email Address</label>
                                 <input type="email" name="_replyto" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+                                <input type="hidden" name="_subject" value="New submission!" />
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -261,8 +262,8 @@
                         <div id="success"></div>
                         <div class="row">
                             <div class="form-group col-xs-12">
-                              <!-- <input type="hidden" name="_subject" value="New submission!" /> -->
                                 <button class="btn btn-success btn-lg">Send</button>
+                                <input type="hidden" name="_next" value="truthy-ruthy.com" />
                             </div>
                         </div>
                     </form>
