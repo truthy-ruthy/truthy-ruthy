@@ -103,16 +103,6 @@ a.active {
 
 
 
-
-
-
-
-
-
-
-
-
-
 				;
 }
 
@@ -1609,4 +1599,8 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+.shopstorm {
+	text-align: justify;
 }
